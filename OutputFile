@@ -1,0 +1,171 @@
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: fibonacci		NestingLevel: 2
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: %1			Offset: 16
+	Entity:   Name: %2			Offset: 20
+	Entity:   Name: %3			Offset: 24
+	Entity:   Name: %4			Offset: 28
+	Entity:   Name: %5			Offset: 32
+*Arguments*
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main_fibonacci		NestingLevel: 1
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: fibonacci		StartQuad: 1		Framelength: 36
+*Arguments*
+	Argument: Name: x
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 0		Framelength: 0
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main_fibonacci		NestingLevel: 1
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: fibonacci		StartQuad: 1		Framelength: 36
+	Entity:   Name: %6			Offset: 16
+*Arguments*
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 17		Framelength: 20
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 17		Framelength: 20
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: fibonacci		NestingLevel: 2
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: %1			Offset: 16
+	Entity:   Name: %2			Offset: 20
+	Entity:   Name: %3			Offset: 24
+	Entity:   Name: %4			Offset: 28
+	Entity:   Name: %5			Offset: 32
+*Arguments*
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main_fibonacci		NestingLevel: 1
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: fibonacci		StartQuad: 1		Framelength: 36
+*Arguments*
+	Argument: Name: x
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 0		Framelength: 0
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main_fibonacci		NestingLevel: 1
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: fibonacci		StartQuad: 1		Framelength: 36
+	Entity:   Name: %6			Offset: 16
+*Arguments*
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 17		Framelength: 20
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 17		Framelength: 20
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: fibonacci		NestingLevel: 2
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: %1			Offset: 16
+	Entity:   Name: %2			Offset: 20
+	Entity:   Name: %3			Offset: 24
+	Entity:   Name: %4			Offset: 28
+	Entity:   Name: %5			Offset: 32
+*Arguments*
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main_fibonacci		NestingLevel: 1
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: fibonacci		StartQuad: 1		Framelength: 36
+*Arguments*
+	Argument: Name: x
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 0		Framelength: 0
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main_fibonacci		NestingLevel: 1
+*Entities*
+	Entity:   Name: x			Offset: 12
+	Entity:   Name: fibonacci		StartQuad: 1		Framelength: 36
+	Entity:   Name: %6			Offset: 16
+*Arguments*
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 17		Framelength: 20
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------------------------
+*Scopes*
+	Scope: 	  Name: main		NestingLevel: 0
+*Entities*
+	Entity:   Name: main_fibonacci		StartQuad: 17		Framelength: 20
+*Arguments*
+-----------------------------------------------------------------------------------------------
+
+
+
